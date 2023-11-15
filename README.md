@@ -12,7 +12,7 @@ Culminating the data processing journey, the project leverages these analytical 
 
 ## Project Deliverables:
 
-[A Data Pipeline Notebook](https://github.com/nogibjj/oo46_iProject_3/blob/main/notebook/Databricks_ETL_Pipeline.ipynb) with cells that perform a series of data processing taks:
+[An ETL Pipeline Notebook](https://github.com/nogibjj/oo46_iProject_3/blob/main/notebook/Databricks_ETL_Pipeline.ipynb) with cells that perform a series of data processing taks:
 
 ### Data Extraction
 ![ingest](img/extract.png)
