@@ -20,7 +20,7 @@ Culminating the data processing journey, the project leverages these analytical 
 ### Data Transformation
 ![tables](img/trans.png)
 
-## Data Loading
+### Data Loading
 ![load](img/load.png)
 
 ### Data Visualizations
@@ -34,11 +34,11 @@ This analysis outlines the student count across five different fields of study, 
 ![discount](img/image1.png)
 This analysis reveals a consistent fee structure across various engineering and computer science programs, with average fees after discounts showing minimal variation among fields such as Electrical, Chemical, Mechanical, Computer Science, and Civil Engineering. The slight differences in fees, with Chemical Engineering at the higher end, suggest a standardized approach to pricing that reflects an institutional strategy of maintaining parity in educational costs. This uniformity in pricing may be part of a broader effort to attract a diverse student body across all technical disciplines without financial bias toward any specific field of study.
 
-### Analysis - Average Fees and Discounts Over Time
+#### Analysis - Average Fees and Discounts Over Time
 ![avg](img/image2.png)
 This analysis showcases the average fees and discounts for student cohorts from 2016 to 2022, showing a stable fee structure with slight annual fluctuations. Over these seven years, average fees hover around the 125,000 mark, while average discounts remain close to 12,500. The consistency in fees suggests a controlled pricing strategy without significant increases, possibly reflecting a commitment to keeping education costs predictable. Notably, the discount amount also remains relatively stable, indicating a steady financial aid policy. The year 2020 stands out with the highest average fees and discounts, hinting at a potential response to unique circumstances such as the onset of the COVID-19 pandemic. Overall, the institution's approach to pricing and discounts appears methodical and consistent year over year.
 
-### Conclusion & Reccommendations
+## Conclusion & Reccommendations
 The analyses conducted on the student data from 2016 to 2022 reveal several key findings:
 
 1. **Balanced Enrollment:** Student counts across various fields of study like Electrical, Chemical, Mechanical, Computer Science, and Civil Engineering are evenly distributed, reflecting an equitable appeal of the institution's academic programs.
